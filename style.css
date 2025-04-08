@@ -1,6 +1,6 @@
-@import url("/styles/cabecalho.css");
-@import url("/styles/produtos.css");
-@import url("/styles/rodape.css");
+@import url("/estilos/cabecalho.css");
+@import url("/estilos/produtos.css");
+@import url("/estilos/rodape.css");
 
 :root {
     --cor-de-fundo: black;
