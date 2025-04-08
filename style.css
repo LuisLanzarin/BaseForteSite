@@ -1,7 +1,3 @@
-@import url("cabecalho.css");
-@import url("produtos.css");
-@import url("rodape.css");
-
 :root {
     --cor-de-fundo: black;
     --branco: #ffffff;
